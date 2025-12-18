@@ -2,7 +2,7 @@
 {
 	public partial class MainWindow
 	{
-		private readonly System.Diagnostics.Stopwatch _stopwatch = new System.Diagnostics.Stopwatch();
+		private readonly System.Diagnostics.Stopwatch _stopwatch = new();
 
 		public MainWindow()
 		{
