@@ -1,7 +1,7 @@
-﻿<Window x:Class="PulseCalculator.MainWindow"
+﻿<Window x:Class="PeriodCalculator.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="PulseCalculator" Height="300" Width="300">
+        Title="PeriodCalculator" Height="300" Width="300">
     <Grid Margin="5">
         <Button x:Name="Button1" 
                 Content="CLICK ME" 

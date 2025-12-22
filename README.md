@@ -1,1 +1,1 @@
-# PulseCalculator
+# PeriodCalculator
